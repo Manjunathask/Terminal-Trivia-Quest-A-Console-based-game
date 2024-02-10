@@ -1,0 +1,7 @@
+C:\Users\skman\Documents\Projects\MCQ_Game\MCQ_Game\bin\Debug\MCQ_Game.exe.config
+C:\Users\skman\Documents\Projects\MCQ_Game\MCQ_Game\bin\Debug\MCQ_Game.exe
+C:\Users\skman\Documents\Projects\MCQ_Game\MCQ_Game\bin\Debug\MCQ_Game.pdb
+C:\Users\skman\Documents\Projects\MCQ_Game\MCQ_Game\obj\Debug\MCQ_Game.csproj.AssemblyReference.cache
+C:\Users\skman\Documents\Projects\MCQ_Game\MCQ_Game\obj\Debug\MCQ_Game.csproj.CoreCompileInputs.cache
+C:\Users\skman\Documents\Projects\MCQ_Game\MCQ_Game\obj\Debug\MCQ_Game.exe
+C:\Users\skman\Documents\Projects\MCQ_Game\MCQ_Game\obj\Debug\MCQ_Game.pdb

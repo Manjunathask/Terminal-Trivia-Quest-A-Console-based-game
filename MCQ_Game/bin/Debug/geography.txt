@@ -1,0 +1,8 @@
+What is the capital of France?|London|Paris|Berlin|Rome|2
+Which of these cities is NOT a national capital?|Bangkok |Cairo|Prague|Sydney|4
+Which of these countries was NEVER part of the British Empire?| Ireland | Kenya| New Zealand|Thailand|4
+Which of these countries is NOT recognized by the United Nations?| Cyprus | Iran|Israel|Taiwan|4
+Which of these countries is NOT one of the top 20 oil producers?| Iraq | Morocco|Norway|United States|2
+Which of these cities is NOT in India?|1. Bangalore | Bhopal| Chennai| Karachi|4
+Which of these countries does NOT have only one border?| Haiti | Ireland| North Korea|Portugal|3
+Which of these countries was NOT a part of the Soviet Union?| Belarus | Georgia| Poland| Ukraine|3
